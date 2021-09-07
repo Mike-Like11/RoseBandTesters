@@ -1,5 +1,5 @@
 
-### Команда тестировщиков RettuchiniTesters
+## Команда тестировщиков RettuchiniTesters
 Состав команды
 - Широков Петр
 - Иванцов Михаил
@@ -13,14 +13,14 @@
 
 
 
-**Содержание**
 
-### Установка
-Данну программу можно установить перейдя по ссылке: https://drive.google.com/drive/folders/1-l7xL-QUiAmVer797vg9j54GdGwW-fzi
+
+## Установка
+Данную программу можно установить, перейдя по ссылке: https://drive.google.com/drive/folders/1-l7xL-QUiAmVer797vg9j54GdGwW-fzi
 Видео-описание установки:
 https://www.youtube.com/watch?v=ISZnoCRIJtg
 
-### Спецификация
+## Спецификация
 
 > Баг 1()
 
@@ -40,4 +40,4 @@ https://www.youtube.com/watch?v=ISZnoCRIJtg
 
                 
 ----
-### Диаграмма вариантов использования
+## Диаграмма вариантов использования
