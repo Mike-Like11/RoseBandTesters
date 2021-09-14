@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=ISZnoCRIJtg
 
 > 1) Выделение блока через название столбца в диаграмме активности
 
-![](![image](https://user-images.githubusercontent.com/57438792/133217186-8cecf572-23a2-45f6-a598-ee37655fcd65.png))
+![image](https://user-images.githubusercontent.com/57438792/133217263-55c07eb8-3663-49c8-9846-eec52635c5c6.png)
 
 > 2) Выделение блока через название столбца в диаграмме активности
 
