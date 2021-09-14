@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ISZnoCRIJtg
 
 ## Спецификация
 
-> 1) После перехода в любую диаграмму при выделении и перетаскивании элемента(-ов) появляются видимые "остатки"
+> 1) Выделение блока через название столбца в диаграмме активности
 
-![](https://sun9-54.userapi.com/impg/Nx1GCi792mrcdohRiW6XFuEFLdHT_M2rmUjGbw/_zKwkE-w8wk.jpg?size=425x311&quality=96&sign=d6d7bee98dc3f85c58c62104405c8028&type=album)
+![](![image](https://user-images.githubusercontent.com/57438792/133217186-8cecf572-23a2-45f6-a598-ee37655fcd65.png))
 
 > 2) Выделение блока через название столбца в диаграмме активности
 
