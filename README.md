@@ -126,6 +126,12 @@ https://www.youtube.com/watch?v=ISZnoCRIJtg
 
 Демонстрация замечения №10
 
+> 11) Неактивность клавиши «delete» в диаграмме коллаборации
+
+![image](https://user-images.githubusercontent.com/57438792/133219782-bdff2fc4-57c7-4a9b-b6d8-f00c1cfcee27.png)
+
+Диаграмма использования зачемания №11
+
 ## Вывод
 
 В ходе проведения практической работы команда «BrokenRoseBand» протестировала приложение «Rational Rose», выявила замечания и отобразила их при помощи диаграммы «use case».
